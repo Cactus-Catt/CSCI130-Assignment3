@@ -1,6 +1,6 @@
 # CSCI130-Assignment3 for Intro to Scientific Programming
-Promt:
-Objective: 
+Prompt:<br>
+Objective:
 •	Work with basic input commands. 
 •	Work with decision making commands.
 Write a program using C named studentGPA_Surname (e.g. studentGPA_Lynch). The program should perform the following:

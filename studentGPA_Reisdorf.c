@@ -69,8 +69,7 @@ if (studentGpa >= 2.20  && credits1 >= 120){
    printf ("You are not eligible for Graduation :-( \n" );
  }
   
-  
-  printf("\n");
+   printf("\n");
  
   return 0;
 }
